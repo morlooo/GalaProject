@@ -29,8 +29,8 @@ public class LoadMedia : MonoBehaviour
 
         // Get the RectTransform of the content panel
         contentRect = contentPanel.GetComponent<RectTransform>();
-
         LoadMediaFromDisk();
+
         InitializeSwipePositions();
     }
 
