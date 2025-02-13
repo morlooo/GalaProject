@@ -163,8 +163,116 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
   - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.Behaviour
     methodName: set_enabled
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.Behaviour
+    methodName: set_enabled
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.Behaviour
+    methodName: set_enabled
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   sceneClasses:
     Assets/Scenes/MenuScene.unity:
     - Class: 1
@@ -194,55 +302,55 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 16676}
     - Class: 114
-      Script: {instanceID: 16692}
+      Script: {instanceID: 16678}
     - Class: 114
-      Script: {instanceID: 16722}
+      Script: {instanceID: 16694}
     - Class: 114
-      Script: {instanceID: 16756}
+      Script: {instanceID: 16724}
     - Class: 114
       Script: {instanceID: 16758}
     - Class: 114
-      Script: {instanceID: 16852}
+      Script: {instanceID: 16760}
     - Class: 114
-      Script: {instanceID: 17038}
+      Script: {instanceID: 16854}
     - Class: 114
-      Script: {instanceID: 17316}
+      Script: {instanceID: 17040}
     - Class: 114
-      Script: {instanceID: 17552}
+      Script: {instanceID: 17318}
     - Class: 114
-      Script: {instanceID: 17744}
+      Script: {instanceID: 17554}
     - Class: 114
-      Script: {instanceID: 17950}
+      Script: {instanceID: 17746}
     - Class: 114
-      Script: {instanceID: 18004}
+      Script: {instanceID: 17952}
     - Class: 114
-      Script: {instanceID: 18360}
+      Script: {instanceID: 18006}
     - Class: 114
-      Script: {instanceID: 18418}
+      Script: {instanceID: 18362}
     - Class: 114
-      Script: {instanceID: 18728}
+      Script: {instanceID: 18420}
     - Class: 114
-      Script: {instanceID: 19006}
+      Script: {instanceID: 18730}
     - Class: 114
-      Script: {instanceID: 19012}
+      Script: {instanceID: 19008}
     - Class: 114
-      Script: {instanceID: 19244}
+      Script: {instanceID: 19014}
     - Class: 114
-      Script: {instanceID: 19498}
+      Script: {instanceID: 19246}
     - Class: 114
-      Script: {instanceID: 19982}
+      Script: {instanceID: 19500}
     - Class: 114
-      Script: {instanceID: 20146}
+      Script: {instanceID: 19984}
     - Class: 114
-      Script: {instanceID: 20210}
+      Script: {instanceID: 20148}
     - Class: 114
-      Script: {instanceID: 20462}
+      Script: {instanceID: 20212}
     - Class: 114
-      Script: {instanceID: 20556}
+      Script: {instanceID: 20464}
     - Class: 114
-      Script: {instanceID: 20562}
+      Script: {instanceID: 20558}
     - Class: 114
-      Script: {instanceID: 20774}
+      Script: {instanceID: 20564}
     - Class: 114
       Script: {instanceID: 20870}
     - Class: 114
@@ -286,16 +394,22 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: 1ab136900c0edaeeb49424c852595030
-    assemblyName: UnityEngine.UI
-    namespaceName: UnityEngine.UI
-    className: RawImage
-  - hash:
-      serializedVersion: 2
       Hash: 915204dac8acad99f076d6e72ada0a0f
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 540882762544409cc4530e60db00e951
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 1ab136900c0edaeeb49424c852595030
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: RawImage
   - hash:
       serializedVersion: 2
       Hash: 55060a7bf226ac385ce19ebd450f199f
@@ -958,12 +1072,6 @@ ScriptsOnlyBuild:
     className: StateGraphAsset
   - hash:
       serializedVersion: 2
-      Hash: 540882762544409cc4530e60db00e951
-    assemblyName: UnityEngine.UI
-    namespaceName: UnityEngine.UI
-    className: CanvasScaler
-  - hash:
-      serializedVersion: 2
       Hash: ef38c1407dba8c1f5d69f5db61a694fe
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -1253,4 +1361,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/MenuScene.unity
-  playerPath: F:/Amit Jain/GalaProject/GalaProjectEXE/GalaProject.exe
+  playerPath: F:/media/GalaProjectExe/GalaProject.exe
